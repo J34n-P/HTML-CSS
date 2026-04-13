@@ -4,13 +4,14 @@ main {
     margin: 0px;
     padding: 0px 100px;
 }
-body{
+
+body {
     font-family: "Saira Stencil", sans-serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-    font-variation-settings:
-        "wdth" 100;
+    font-variation-settings: 
+    "wdth" 100;
 }
 
 header {
